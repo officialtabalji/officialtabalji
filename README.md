@@ -22,8 +22,8 @@ Welcome to my GitHub! I'm a passionate learner and developer with a growing inte
 Feel free to check out my repositories and follow my journey as I learn, build, and grow! 
 
 ### Let's Connect!
-- [LinkedIn]: www.linkedin.com/in/majikshreya
-- [Twitter]: https://x.com/shreya_majik_18
+- LinkedIn: www.linkedin.com/in/majikshreya
+- Twitter: https://x.com/shreya_majik_18
 
 Thanks for stopping by!
 

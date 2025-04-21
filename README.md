@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate learner and developer with a growing inte
 
 ### Tech Stack:
 - **Languages**: HTML, CSS, JavaScript, Python,C++
-- **Frameworks**: React, Node.js
+- **Frameworks**: React, Node.js,Express.js
 - **Tools**: Git, Docker, Postman
 - **Exploring**: Solidity, TensorFlow, PyTorch
 
